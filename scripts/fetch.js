@@ -1,4 +1,3 @@
-// scripts/fetch.js
 import fs from "fs/promises";
 import fetch from "node-fetch";
 
