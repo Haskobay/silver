@@ -2,8 +2,8 @@ name: Fetch YouTube Videos to XML
 
 on:
   schedule:
-    - cron: '0 * * * *' # her saat başı (değiştirin)
-  workflow_dispatch:
+    - cron: '0 */12 * * *'  # her gün 12 saat aralıkla (0:00 ve 12:00 UTC)
+  workflow_dispatch: # manuel çalıştırma opsiyonu
 
 jobs:
   build:
