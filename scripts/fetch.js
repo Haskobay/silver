@@ -37,10 +37,8 @@ for (const channelId of cfg.channels) {
   }
 }
 
-// Tarihe göre sırala (yeni -> eski)
 items.sort((a,b) => (b.publishedAt || "").localeCompare(a.publishedAt || ""));
 
-// XML oluştur
 let xml = `<?xml version="1.0" encoding="utf-8"?>\n<videos>\n`;
 for (const it of items) {
   xml += `  <video>\n`;
