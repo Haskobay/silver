@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repo ve GITHUB_TOKEN ile push izni sağla
+      # Checkout repo ve push izni sağla
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          persist-credentials: true  # !!! push için gerekli
+          persist-credentials: true  # <<< push için gerekli
 
       - name: Setup Node
         uses: actions/setup-node@v4
