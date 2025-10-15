@@ -1,5 +1,4 @@
 // scripts/fetch.js
-// Usage: node scripts/fetch.js
 import fs from "fs/promises";
 import fetch from "node-fetch";
 
@@ -39,10 +38,10 @@ for (const channelId of cfg.channels) {
   }
 }
 
-// Sort by publishedAt desc
+// Tarihe göre sırala (yeni -> eski)
 items.sort((a,b) => (b.publishedAt || "").localeCompare(a.publishedAt || ""));
 
-// Build XML
+// XML oluştur
 let xml = `<?xml version="1.0" encoding="utf-8"?>\n<videos>\n`;
 for (const it of items) {
   xml += `  <video>\n`;
