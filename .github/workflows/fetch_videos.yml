@@ -34,7 +34,8 @@ jobs:
           git add videos.xml || true
           if ! git diff --cached --quiet; then
             git commit -m "Update videos.xml (GitHub Actions)" || true
-            git push
+            # Push using GITHUB_TOKEN
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
           else
             echo "No changes to videos.xml"
           fi
