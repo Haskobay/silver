@@ -2,8 +2,8 @@ name: Fetch YouTube Videos to XML
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # her gün 12 saat aralıkla (0:00 ve 12:00 UTC)
-  workflow_dispatch: # manuel çalıştırma opsiyonu
+    - cron: '0 */12 * * *'  # her 12 saatte bir UTC
+  workflow_dispatch:
 
 jobs:
   build:
@@ -20,14 +20,12 @@ jobs:
           node-version: '18'
 
       - name: Install deps
-        run: |
-          npm ci || npm install
+        run: npm ci || npm install
 
       - name: Run fetch script
         env:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
-        run: |
-          node scripts/fetch.js
+        run: npm run fetch
 
       - name: Commit videos.xml if changed
         run: |
@@ -35,7 +33,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add videos.xml || true
           if ! git diff --cached --quiet; then
-            git commit -m "Update videos.xml (by GitHub Actions)" || true
+            git commit -m "Update videos.xml (GitHub Actions)" || true
             git push
           else
             echo "No changes to videos.xml"
