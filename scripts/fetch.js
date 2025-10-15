@@ -16,10 +16,7 @@ const items = [];
 for (const channelId of cfg.channels) {
   const url = `https://www.googleapis.com/youtube/v3/search?key=${API_KEY}&channelId=${channelId}&part=snippet,id&order=date&maxResults=${maxResults}&type=video`;
   const res = await fetch(url);
-  if (!res.ok) {
-    console.error(`Failed fetch for ${channelId}: ${res.status} ${res.statusText}`);
-    continue;
-  }
+  if (!res.ok) continue;
   const data = await res.json();
   if (!data.items) continue;
 
