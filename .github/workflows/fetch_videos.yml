@@ -8,18 +8,20 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # Checkout repo ve GITHUB_TOKEN ile push izni sağla
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          persist-credentials: true  # !!! push için gerekli
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '18'
 
-      - name: Install deps
+      - name: Install dependencies
         run: npm ci || npm install
 
       - name: Run fetch script
@@ -34,8 +36,7 @@ jobs:
           git add videos.xml || true
           if ! git diff --cached --quiet; then
             git commit -m "Update videos.xml (GitHub Actions)" || true
-            # Push using GITHUB_TOKEN
-            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
+            git push  # artık token otomatik kullanılıyor, hata yok
           else
             echo "No changes to videos.xml"
           fi
