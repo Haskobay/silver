@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<videos>
+  <video>
+    <channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</channelId>
+    <channelTitle>Google Developers</channelTitle>
+    <videoId>abcdef12345</videoId>
+    <title>Yeni Video Başlığı</title>
+    <description>Video açıklaması...</description>
+    <publishedAt>2025-10-15T12:34:56Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/abcdef12345/hqdefault.jpg</thumbnail>
+  </video>
+  ...
+</videos>
