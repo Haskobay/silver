@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <videos>
   <video>
+    <channelId>UC8SVJD8u1FkrZ7T2oeGxJ-g</channelId>
+    <channelTitle>Gezen Can</channelTitle>
+    <videoId>HRSoYFNUqx0</videoId>
+    <title>Muay Thai Tayland 🇹🇭</title>
+    <description></description>
+    <publishedAt>2025-12-22T14:42:33Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/HRSoYFNUqx0/hqdefault.jpg</thumbnail>
+  </video>
+  <video>
     <channelId>UCixqwBjXWG04mz5-FeIWi_w</channelId>
     <channelTitle>YırtıkPantolon</channelTitle>
     <videoId>DWz65UmV_ec</videoId>
@@ -89,15 +98,6 @@
     <description></description>
     <publishedAt>2025-12-21T05:25:16Z</publishedAt>
     <thumbnail>https://i.ytimg.com/vi/mWh85xAxJ0E/hqdefault.jpg</thumbnail>
-  </video>
-  <video>
-    <channelId>UC8SVJD8u1FkrZ7T2oeGxJ-g</channelId>
-    <channelTitle>Gezen Can</channelTitle>
-    <videoId>JQCt4eI-T0A</videoId>
-    <title>Kabile eğlencesi (belgesel)</title>
-    <description></description>
-    <publishedAt>2025-12-20T17:15:00Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/JQCt4eI-T0A/hqdefault.jpg</thumbnail>
   </video>
   <video>
     <channelId>UC8eiIqFeGHv8EImu7FAZPYw</channelId>
@@ -229,7 +229,7 @@
     <channelId>UC8eiIqFeGHv8EImu7FAZPYw</channelId>
     <channelTitle>Ugur Kola</channelTitle>
     <videoId>kyMX2WCKXfI</videoId>
-    <title>ŞANGAY - ÇİN | Gördüklerinize İnanamayacaksınız! 🇨🇳</title>
+    <title>ŞANGAY - ÇİN | Gördüğüm En Düzenli Şehir 🇨🇳</title>
     <description>Burası Şangay... Nüfusu birçok ülkeden daha fazla ama sokaklarında &quot;çıt&quot; çıkmıyor! Bu videoda Çin&apos;in en büyük şehrindeki o ...</description>
     <publishedAt>2025-12-14T07:00:48Z</publishedAt>
     <thumbnail>https://i.ytimg.com/vi/kyMX2WCKXfI/hqdefault.jpg</thumbnail>
@@ -253,94 +253,67 @@
     <thumbnail>https://i.ytimg.com/vi/6pflv_-P9Gk/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>9vWUxcNZnT8</videoId>
-    <title>Dağıstan: Bu Şehirde Herkes Türkçe Konuşuyor! 468 🇷🇺</title>
-    <description>Herkese selamlar ben Arda Pazır.Bu bölümde Dağıstan&apos;ın en eski şehirlerinden biri olan Derbent&apos;i Türkçe konuşarak geziyorum!</description>
-    <publishedAt>2025-12-08T15:43:56Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/9vWUxcNZnT8/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>pUmDWlmfVBs</videoId>
+    <title>Irak Bağdat’daki Kaos Dolu İlk Günüm - 100 DOLARLA 1 GÜN</title>
+    <description>Irak&apos;ın Başkenti Bağdat&apos;a geldiğim bu bölümde, Bağdat&apos;da gezilecek yerleri, görülmesi gereken noktaları, fiyatları, gezi rehberi ...</description>
+    <publishedAt>2025-12-07T07:21:40Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/pUmDWlmfVBs/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>ntvt_fxP4eQ</videoId>
-    <title>Dağıstan’da Kumuk Türklerini Buldum🇹🇷</title>
-    <description></description>
-    <publishedAt>2025-12-06T14:35:02Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/ntvt_fxP4eQ/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>MPklc-CllmQ</videoId>
+    <title>Irak’ta Rüşvet Vererek Bağdat’a Gittim - İşte İki Yüzü</title>
+    <description>Irak&apos;ın kuzeyinde bulunan Erbil&apos;de, ülkenin 2 yüzünü gösterdikten sonra, uçağa atladım ve başkent Bağdat&apos;a gittim. İşte bu ...</description>
+    <publishedAt>2025-12-03T16:55:33Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/MPklc-CllmQ/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>nyMh2Bz8lOQ</videoId>
-    <title>Dağıstan&amp;#39;da Kumuk Türklerini Buldum! 467 🇷🇺</title>
-    <description>Herkese selamlar ben Arda Pazır. Bu bölümde Dağıstan&apos;da yüzyıllardır yaşayan Kumuk Türklerinin izini sürüyoruz. Tarki-Tau ...</description>
-    <publishedAt>2025-12-05T15:28:15Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/nyMh2Bz8lOQ/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>5SL3g2-mLeE</videoId>
+    <title>111. Ülkem Irak’a Geldim - TELEVİZYONDA OLMAYAN GERÇEKLER !!!</title>
+    <description>Irak benim 111. Ülkem oldu. Hiç bir plan yapmadan, hiç bir şey bilmeden Irak&apos;ın kuzeyine vize almadan geldim. Sizlere bu ...</description>
+    <publishedAt>2025-11-26T17:00:18Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/5SL3g2-mLeE/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>BPFJy2A2igk</videoId>
-    <title>Dağıstan Bakın Nasıl Bir Yer | Yemekler, Fiyatlar ve Gerçekler 466 🇷🇺</title>
-    <description>Herkese selamlar ben Arda Pazır. Bu bölümde, Dağıstan nasıl bir yer? Bu videoda Dağıstan&apos;ın yemekleri, sokak kültürü, market ...</description>
-    <publishedAt>2025-11-30T16:30:54Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/BPFJy2A2igk/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>VY-vbqJJ3DQ</videoId>
+    <title>Dünyanın En Pahalı YENGEÇLERİNİ YEDİM | Japonya-Rusya Sınırına Geldim</title>
+    <description>Japonya&apos;nın en kuzeyinde bulunan Hokkaido adasının başkenti Sapporo&apos;ya geldim. Burası Japonya&apos;nın kırsalı olarak biliniyor.</description>
+    <publishedAt>2025-11-16T09:52:01Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/VY-vbqJJ3DQ/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>ZE9dlmJ8Rfs</videoId>
-    <title>Dağıstan Sokaklarında Türküm Deyince Olanlar! 465 🇷🇺</title>
-    <description>Merhaba ben Arda Pazır. Bu videoda “Dağıstan&apos;da Türküm deyince ne oluyor?” sorusunun cevabını sokak sokak gezerek sizlere ...</description>
-    <publishedAt>2025-11-27T18:44:21Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/ZE9dlmJ8Rfs/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>TGOAF5YsW7I</videoId>
+    <title>Tokyo Böyle Gezilir - İşte Japonya’nın En Büyük Şehri</title>
+    <description>Japonya&apos;nın en büyük kenti Tokyo&apos;da, sabahtan akşama kadar çok güzel bir gezi yaptım.   Tokyo nasıl bir yer, Japonya&apos;da ...</description>
+    <publishedAt>2025-11-12T17:00:39Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/TGOAF5YsW7I/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>oEb440Z25fc</videoId>
-    <title>Dağıstan’a Geldim! Khabib, Sokaklar ve Yaşam 464 🇷🇺</title>
-    <description>Herkese selamlar ben Arda Pazır. Bu bölümde Dağıstan&apos;a geldim ve hem kültürün hem de sokak yaşamının içine giriyoruz.</description>
-    <publishedAt>2025-11-23T15:42:09Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/oEb440Z25fc/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>163_9kaTNCs</videoId>
+    <title>Japonla Evli TÜRK’ün ŞAŞIRTICI İTİRAFLARI -  BAKIN GERÇEK JAPONYA Nasıl ???</title>
+    <description>Japonya&apos;da yaşayan Cem ile tekrar buluştum ve beraber Tokyo&apos;yu gezdik.   Japonya nasıl bir ülke, Japonya&apos;da yaşam şartları ...</description>
+    <publishedAt>2025-11-09T15:17:35Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/163_9kaTNCs/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>J3r9_iVDKz0</videoId>
-    <title>ÇEÇENİSTAN&amp;#39;DA DÖVÜŞ SALONUNA GİRDİM! 463 🇷🇺</title>
-    <description>Herkese selamlar ben Arda Pazır. Çeçenistan&apos;da bir dövüş salonuna girip gerçek MMA, boks ve kickboks kültürünü yakından ...</description>
-    <publishedAt>2025-11-18T16:24:11Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/J3r9_iVDKz0/hqdefault.jpg</thumbnail>
-  </video>
-  <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>TuguzaU0Q_M</videoId>
-    <title>ÇEÇENİSTAN&amp;#39;IN ŞAŞIRTICI KÖY HAYATI 462 🇷🇺</title>
-    <description>Herkese selamlar, ben Arda Pazır. Bu bölümde sizleri Çeçenistan&apos;ın şaşırtıcı köy hayatına götürüyorum. Geleneksel Çeçen ...</description>
-    <publishedAt>2025-11-14T09:14:28Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/TuguzaU0Q_M/hqdefault.jpg</thumbnail>
-  </video>
-  <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>7J2WZKpLk-8</videoId>
-    <title>Inside Chechnya’s Hidden Life! Grozny</title>
-    <description>Hello, I am Arda Pazır. I traveled to Grozny, the capital of Chechnya, to explore what life is really like beyond the headlines.</description>
-    <publishedAt>2025-11-09T06:00:14Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/7J2WZKpLk-8/hqdefault.jpg</thumbnail>
-  </video>
-  <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>gGn91Sy0lAA</videoId>
-    <title>Çeçenistan&amp;#39;a Geldim! Sokaklar, Pazarlar ve Yaşam 460 🇷🇺</title>
-    <description>Herkese selam, ben Arda Pazır. Bu bölümde Çeçenistan&apos;ın başkenti Grozny, yani bizim deyişimizle Coharkale&apos;ye geldim.</description>
-    <publishedAt>2025-11-02T15:11:01Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/gGn91Sy0lAA/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>LN1Pu7yt-40</videoId>
+    <title>Japonya’daki İlk Günüm - Bildiğiniz Her Şeyi UNUTUN !!!</title>
+    <description>Japonya&apos;nın Tokyo kenti gezim başlıyor.   Tokyo nasıl bir şehir, nasıl gezilir, neleri bilmelisiniz, fiyatlar, ulaşım ve daha nicesini bu ...</description>
+    <publishedAt>2025-11-02T09:38:07Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/LN1Pu7yt-40/hqdefault.jpg</thumbnail>
   </video>
   <video>
     <channelId>UC8P2ame_57JS0FhpZ7Zke8w</channelId>
@@ -352,58 +325,31 @@
     <thumbnail>https://i.ytimg.com/vi/sB1jhHw6Stg/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>jpaB6d5x7Nk</videoId>
-    <title>Türkler’e VİZESİZ Gürcistan’a Geldim! Tiflis Şaşırttı 459 🇬🇪</title>
-    <description>Merhaba, ben Arda Pazır. Bu videoda Türklere vizesiz bir ülke olan Gürcistan&apos;ı ve başkenti Tiflis&apos;i keşfediyorum. Kimlik ile giriş ...</description>
-    <publishedAt>2025-10-31T09:01:30Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/jpaB6d5x7Nk/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>rUW6kQvYB5g</videoId>
+    <title>En Uygun BALİ TATİLİ NASIL YAPILIR - BİLMENİZ GEREKEN HER ŞEY !!!</title>
+    <description>Bali Adası&apos;nda nasıl tatil yapılır, neleri bilmelisiniz, nasıl bir gezi planı oluşturmalısınız ? İşte hepsini bu Bali gezi videomda ...</description>
+    <publishedAt>2025-10-26T07:14:40Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/rUW6kQvYB5g/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>4InqkkYYFZc</videoId>
-    <title>RUSYA&amp;#39;DA GÖRDÜKLERİME İNANAMADIM! 458 🇷🇺</title>
-    <description>Herkese selamlar, ben Arda Pazır! Bu bölümde yepyeni bir ülkeye, Rusya&apos;ya geçiyoruz. 22 özerk cumhuriyetin, 100&apos;den fazla ...</description>
-    <publishedAt>2025-10-25T07:34:05Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/4InqkkYYFZc/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>J1l9clmYidU</videoId>
+    <title>BALİ’de 100 Dolarla Lüks Tatil Yaparsınız - İşte Bali’deki İlk Günüm !!!</title>
+    <description>Türkler&apos;in vize almadan gittiği Bali&apos;de ilk gün başıma gelenleri anlattığım bu çok eğlenceli bölüme hoşgeldiniz.   Bali tatili nasıl ...</description>
+    <publishedAt>2025-10-19T11:23:33Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/J1l9clmYidU/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>PqfW5BsBQMU</videoId>
-    <title>Kenya’da Geceleri Neler Oluyor? Nairobi’nin Şaşırtıcı Zengin Hayatı! - 457 🇰🇪</title>
-    <description>Merhaba ben Arda Pazır. Bu bölümde Kenya&apos;nın Zengin ve Modern Yüzünü keşfediyoruz. Kenya&apos;da Şaşırtıcı Zengin Hayatı ve ...</description>
-    <publishedAt>2025-10-23T15:30:36Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/PqfW5BsBQMU/hqdefault.jpg</thumbnail>
-  </video>
-  <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>1YPUQD_FIIc</videoId>
-    <title>Kenya&amp;#39;da Yaşayan Türkler Şaşırtıcı İtirafları! 456 🇰🇪</title>
-    <description>Herkese selamlar ben Arda Pazır! Bu videoda Kenya&apos;nın başkenti Nairobi&apos;de yaşayan Türklerin şaşırtıcı itiraflarını dinliyorum.</description>
-    <publishedAt>2025-10-19T09:39:36Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/1YPUQD_FIIc/hqdefault.jpg</thumbnail>
-  </video>
-  <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>OANV1dnXBCs</videoId>
-    <title>Bu Ülkede Aç Kalmazsın ! Nairobi Sokak Pazarı 455 🇰🇪</title>
-    <description>Herkese selamlar ben Arda Pazır. Bu bölümde Nairobi yerel pazarını geziyoruz ve Kenya&apos;da Tropikal Meyveleri Deniyorum.</description>
-    <publishedAt>2025-10-17T15:24:47Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/OANV1dnXBCs/hqdefault.jpg</thumbnail>
-  </video>
-  <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>iFkzLkC4Ue0</videoId>
-    <title>&amp;#39;TEK BAŞINA GİTME&amp;#39; Dedikleri Gecekondu Mahallesi- Kenya 454 🇰🇪</title>
-    <description>Merhaba ben Arda Pazır. Bu videoda Afrika&apos;nın en büyük gecekondu mahallesi Kibera&apos;yı geziyoruz. Nairobi&apos;nin arka sokaklarında ...</description>
-    <publishedAt>2025-10-12T12:30:53Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/iFkzLkC4Ue0/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>0qvmr4xjkh0</videoId>
+    <title>200.000 TL BUSINESS Uçak Bileti - Singapur’a Gidiyorum</title>
+    <description>Yeni ülke Singapur&apos;a, dünyanın en güzel ülkelerinden birisine hoşgeldiniz.   Yasaklar ülkesi olarak bilinen Singapur&apos;a nasıl ...</description>
+    <publishedAt>2025-10-09T17:00:03Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/0qvmr4xjkh0/hqdefault.jpg</thumbnail>
   </video>
   <video>
     <channelId>UC35GLuhVhpEMjZrIWvi6ckw</channelId>
@@ -415,13 +361,13 @@
     <thumbnail>https://i.ytimg.com/vi/oF8xKqEGnPA/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>_IZBVJgJjOM</videoId>
-    <title>NAİROBİ&amp;#39;DE GÖRDÜKLERİME İNANAMADIM! KENYA 454 🇰🇪</title>
-    <description>Merhaba ben Arda Pazır! Nairobi&apos;de unutulmaz bir gün geçirdim. Önce Kenya Ulusal Müzesi&apos;nde ülkenin köklü tarihini ve vahşi ...</description>
-    <publishedAt>2025-10-08T17:30:14Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/_IZBVJgJjOM/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>kWmLQUQSxno</videoId>
+    <title>Kutuplarda SOYULDUM - İşte Dünyanın Sonunda Başıma Gelenler !!!</title>
+    <description>Dünyanın sonu olarak bilinen Svalbard&apos;a hoşgeldiniz.   Svalbard&apos;da hiç gece görmediğim bir gezide, ne yazık ki talihsiz bir olay ...</description>
+    <publishedAt>2025-10-05T15:05:56Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/kWmLQUQSxno/hqdefault.jpg</thumbnail>
   </video>
   <video>
     <channelId>UC8P2ame_57JS0FhpZ7Zke8w</channelId>
@@ -433,22 +379,22 @@
     <thumbnail>https://i.ytimg.com/vi/LrL4-P9u28I/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>1dkDgDvTNLk</videoId>
-    <title>Yeni Ülke: Kenya | Nairobi’de İlk Günüm 453 🇰🇪</title>
-    <description>Herkese selamlar ben Arda Pazır. Bu bölümde Kenya serisine başlıyoruz. Nairobi sokaklarında ilk günüm maceralı geçti. Kenya ...</description>
-    <publishedAt>2025-10-05T09:20:11Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/1dkDgDvTNLk/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>Ny7t9_mLzSg</videoId>
+    <title>TEK BAŞIMA Kuzey Kutbuna Gidiyorum - BAKIN NASIL YAŞIYORLAR</title>
+    <description>Dünyanın sonuna, kutuplardaki Svalbard&apos;a hoşgeldiniz.   Norveç&apos;den Svalbard&apos;a olan bu yolcuğumda, sizlere dünyanın ...</description>
+    <publishedAt>2025-10-01T17:00:44Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/Ny7t9_mLzSg/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>yBCY9vxT5qU</videoId>
-    <title>İlk Kez Safari Yaptım | Serengeti - 452🇹🇿</title>
-    <description>Merhaba, ben Arda Pazır. Afrika&apos;ya geri dönüyoruz ve bu kez Tanzanya&apos;da 3 gün boyunca unutulmaz bir safari yaptım. Serengeti ...</description>
-    <publishedAt>2025-09-28T15:29:43Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/yBCY9vxT5qU/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>MxrHmsKDjIM</videoId>
+    <title>İşte Norveç Fiyortları - GÖRDÜKLERİME İNANAMADIM !!!</title>
+    <description>Norveç&apos;deki rüya gibi doğaya, fiyortlara, manzaralara hazır olun. Norveç&apos;de kiraladığımız araba ile, bu sefer ki amacımız en ...</description>
+    <publishedAt>2025-09-28T07:01:31Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/MxrHmsKDjIM/hqdefault.jpg</thumbnail>
   </video>
   <video>
     <channelId>UC35GLuhVhpEMjZrIWvi6ckw</channelId>
@@ -460,31 +406,58 @@
     <thumbnail>https://i.ytimg.com/vi/otGaf1Evi64/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>jZn2N_rn3IM</videoId>
-    <title>Bu Şehrin Atmosferi Farklı: Lienz 451 🇦🇹</title>
-    <description>Herkese selamlar ben Arda Pazır.Avusturya&apos;nın Alplerle çevrili gizli güzelliklerinden Lienz&apos;i keşfediyoruz! Bu Şehrin Atmosferi ...</description>
-    <publishedAt>2025-09-21T06:30:22Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/jZn2N_rn3IM/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>v3MD7NRHZVY</videoId>
+    <title>Norveç&amp;#39;de BURAYA BAYILDIM - Dünyanın EN GÜZEL TREN Yolculuğunu Yaptım !!!</title>
+    <description>Norveç&apos;deki şahane fiyortlara, köylere ve rüya gibi bir tren yolculuğuna hoşgeldiniz.   Norveç, gezilecek yerler olarak çok zengin ...</description>
+    <publishedAt>2025-09-21T15:48:09Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/v3MD7NRHZVY/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>c8IIhIZCAEg</videoId>
-    <title>&amp;quot;Çizgi Film&amp;quot; Değil! Her Şey Gerçek! Avusturya 450 🇦🇹</title>
-    <description>Herkese selamlar ben Arda Pazır. “Bu Köyde Stres Yok! Alp Dağlarında Zirvedeyim” başlıklı bu videoda Avusturya&apos;nın en yüksek ...</description>
-    <publishedAt>2025-09-17T14:30:34Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/c8IIhIZCAEg/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>C9oFYkg3wic</videoId>
+    <title>Masal Gibi Norveç Köyleri - İŞTE Dünyanın EN ZENGİN ÜLKESİ !!!</title>
+    <description>Norveç gezimin en güzel köyler bölümüne hoşgeldiniz.   Norveç fiyortları ünlü olsa da, Norveç&apos;deki şahane köyleri de görmek ...</description>
+    <publishedAt>2025-09-17T17:00:28Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/C9oFYkg3wic/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>sASnKJjGQPw</videoId>
-    <title>Viyana&amp;#39;nın İLGİNÇ Gece Hayatı Festival ve Kulüpler  -448 🇦🇹</title>
-    <description>Merhaba, ben Arda Pazır. Bu bölümde Viyana&apos;nın ateşli gece hayatına dalıyoruz! Ferhat Döner&apos;de hızlı bir başlangıç yapıp, ...</description>
-    <publishedAt>2025-09-03T14:01:28Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/sASnKJjGQPw/hqdefault.jpg</thumbnail>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>_tUXJOhRnt0</videoId>
+    <title>Yeni Ülke Norveç&amp;#39;e Geldim - Kişi Başı Gelir 3 Milyon TL !!!</title>
+    <description>Norveç gezimin ilk bölümüne hoşgeldiniz.   Dünyanın en yeşil ülkelerinden bir tanesi olan Norveç&apos;e nasıl gelinir, neden gelinir, ...</description>
+    <publishedAt>2025-09-14T09:28:14Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/_tUXJOhRnt0/hqdefault.jpg</thumbnail>
+  </video>
+  <video>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>gFuF0I0OjIg</videoId>
+    <title>İşte Hristiyan Gagavuz Türkleri - Unutulmuş Türk Köyleri !!!</title>
+    <description>Moldova&apos;da yaşayan Gagavuzlar bölümüne hoşgeldiniz.   Gagavuzlar&apos;ın yaşadıkları bu coğrafyaya gidip, nasıl yaşadıklarını, ...</description>
+    <publishedAt>2025-09-10T17:01:06Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/gFuF0I0OjIg/hqdefault.jpg</thumbnail>
+  </video>
+  <video>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>6hoCO3TrQFE</videoId>
+    <title>Hayalet Ülkeye Gittim - KİMSE TANIMIYOR, HARİTADA BİLE YOK !!!</title>
+    <description>Hiçbir ülke tarafından tanınmayan Transdinyester&apos;e hoşgeldiniz.   Moldova&apos;da bulunan bu ülkeye giderken başıma gelen her şeyi ...</description>
+    <publishedAt>2025-09-03T17:00:16Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/6hoCO3TrQFE/hqdefault.jpg</thumbnail>
+  </video>
+  <video>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>3T61ahuLiuc</videoId>
+    <title>Türk Görmediğim Ülke MOLDOVA - KİŞİ BAŞI GELİR 3.000 DOLAR !!!</title>
+    <description>110. Ülkem Moldova&apos;nın Başkenti Kişinev&apos;deki ilk günkü gezime hoşgeldiniz.   Moldova nasıl bir ülke, Kişinev&apos;de nereler ...</description>
+    <publishedAt>2025-08-27T17:00:09Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/3T61ahuLiuc/hqdefault.jpg</thumbnail>
   </video>
   <video>
     <channelId>UC35GLuhVhpEMjZrIWvi6ckw</channelId>
@@ -494,5 +467,32 @@
     <description>1997 Asya krizinden sonra hızla büyüyen ve değişen Tayland&apos;ın başkenti Bangkok, günümüzde rezidanslar, gökdelenler, ...</description>
     <publishedAt>2025-08-26T06:51:01Z</publishedAt>
     <thumbnail>https://i.ytimg.com/vi/85CW7fnUBM0/hqdefault.jpg</thumbnail>
+  </video>
+  <video>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>z8P6qv5SIcs</videoId>
+    <title>İşte 110. Ülkem MOLDOVA&amp;#39;da Başıma Gelenler - Türkleri Zorla Alıyorlar !!!</title>
+    <description>110. Ülkem Moldova&apos;ya Hoşgeldiniz.   Moldova&apos;nın Başkenti Kişinev&apos;e giderken neleri bilmelisiniz, kimlikle bile gidilen Moldova ...</description>
+    <publishedAt>2025-08-24T15:09:16Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/z8P6qv5SIcs/hqdefault.jpg</thumbnail>
+  </video>
+  <video>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>_E1RD1Wpa7c</videoId>
+    <title>ŞAŞIRTICI Azerbaycan Dağ Köyleri Gezim - NE MUTLU TÜRKÜM DİYENE !!!</title>
+    <description>Azerbaycan&apos;da Kınalık ve Kuba adındaki köylere gittim. Amacım hem dağları hemde kasabaları görüp sizlere Azerbaycan&apos;daki ...</description>
+    <publishedAt>2025-08-20T17:00:46Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/_E1RD1Wpa7c/hqdefault.jpg</thumbnail>
+  </video>
+  <video>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>rM5eHMSmZy0</videoId>
+    <title>İşte Azerbaycan Böyle Zengin Oldu - Bunları Bilmeden Bakü&amp;#39;ye Gitmeyin !!!</title>
+    <description>Azerbaycan ve Bakü&apos;ye dair en kapsamlı videoma hoşgeldiniz   Azerbaycan nasıl zengin oldu, Bakü nasıl bir yer, Azerbaycan&apos;da ...</description>
+    <publishedAt>2025-08-14T17:01:09Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/rM5eHMSmZy0/hqdefault.jpg</thumbnail>
   </video>
 </videos>
