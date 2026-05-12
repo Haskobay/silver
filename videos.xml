@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <videos>
   <video>
+    <channelId>UCsY5426VGt3RkE18Z1sk7VQ</channelId>
+    <channelTitle>GÖÇMEN KIZI FİRARDA </channelTitle>
+    <videoId>RM__249BXOw</videoId>
+    <title>“Karavanla Bu Şehre Girilmez!” dediler… Karavanla Türkiye’den Pekin’e</title>
+    <description>Türkiye&apos;den Orta Asya ve Güneydoğu Asya&apos;yı dolaştıktan sonra tekrar Çin&apos;e gelip merak ettiğim ve yasak olduğu söylenen şehre ...</description>
+    <publishedAt>2026-05-11T16:15:21Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/RM__249BXOw/hqdefault.jpg</thumbnail>
+  </video>
+  <video>
     <channelId>UCixqwBjXWG04mz5-FeIWi_w</channelId>
     <channelTitle>YırtıkPantolon</channelTitle>
     <videoId>TqcLOxHvHUQ</videoId>
@@ -49,7 +58,7 @@
     <channelId>UC8eiIqFeGHv8EImu7FAZPYw</channelId>
     <channelTitle>Ugur Kola</channelTitle>
     <videoId>bw5n5nn4X_o</videoId>
-    <title>24 Saatte Atina Gezisi | Buraya Bayılacaksınız! 🇬🇷</title>
+    <title>24 Saatte Atina Gezisi | Yunanistan 🇬🇷</title>
     <description>Bayram öncesi Atina&apos;ya gitmeyi düşünenler ya da komşu ülkemiz Yunanistan&apos;ı merak edenler için samimi bir vlog hazırladım.</description>
     <publishedAt>2026-05-10T06:58:22Z</publishedAt>
     <thumbnail>https://i.ytimg.com/vi/bw5n5nn4X_o/hqdefault.jpg</thumbnail>
@@ -217,15 +226,6 @@
     <thumbnail>https://i.ytimg.com/vi/7-5pVGya1UU/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UC8P2ame_57JS0FhpZ7Zke8w</channelId>
-    <channelTitle>Trakya Tv.</channelTitle>
-    <videoId>tw6JeJ3m1tI</videoId>
-    <title>Bu Tören Neden Bu Kadar Önemli? Anzak Töreninde Yaşananlar</title>
-    <description>anzakgünü Ayrıcalıklardan yararlanmak için bu kanala katılın: TRAKYA TV SAYFAMIZA DESTEK VEREBİLİRSİNİZ DESTEĞİNİZ ...</description>
-    <publishedAt>2026-04-26T14:55:56Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/tw6JeJ3m1tI/hqdefault.jpg</thumbnail>
-  </video>
-  <video>
     <channelId>UC9iME25kp7TP1j9WW0fva3w</channelId>
     <channelTitle>Sezer Yılmaz</channelTitle>
     <videoId>oWpN5nuN7GQ</videoId>
@@ -251,15 +251,6 @@
     <description>Selamlar ben Arda Pazır, bugün sizlerle birlikte Güney Amerika&apos;nın en sakin ve bir o kadar da ilginç ülkelerinden biri olan ...</description>
     <publishedAt>2026-04-19T12:26:54Z</publishedAt>
     <thumbnail>https://i.ytimg.com/vi/-ES6Qs-n3rI/hqdefault.jpg</thumbnail>
-  </video>
-  <video>
-    <channelId>UCsY5426VGt3RkE18Z1sk7VQ</channelId>
-    <channelTitle>GÖÇMEN KIZI FİRARDA </channelTitle>
-    <videoId>vJOOVmZE4jc</videoId>
-    <title>Karavanımla Çin’in inanılmaz köprülerinden geçtim… 39. Bölüm</title>
-    <description>Dünyanın en yüksek köprüsü Çindeymiş. Bunu bizzat karavanımla geçerken öğrendim. Üstelik sadece 1 de değil 3-4 tane.</description>
-    <publishedAt>2026-04-18T16:45:59Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/vJOOVmZE4jc/hqdefault.jpg</thumbnail>
   </video>
   <video>
     <channelId>UC35GLuhVhpEMjZrIWvi6ckw</channelId>
@@ -296,5 +287,14 @@
     <description>Badjau Kabilesi asırlardır Endonezya, Malezya ve Filipinler&apos;in sınırlarının kesiştiği bölgede ve çevresindeki küçük adalarda ...</description>
     <publishedAt>2025-10-09T05:35:09Z</publishedAt>
     <thumbnail>https://i.ytimg.com/vi/oF8xKqEGnPA/hqdefault.jpg</thumbnail>
+  </video>
+  <video>
+    <channelId>UC8P2ame_57JS0FhpZ7Zke8w</channelId>
+    <channelTitle>Trakya Tv.</channelTitle>
+    <videoId>LrL4-P9u28I</videoId>
+    <title>KÜÇÜK YONCALI ŞALVAR GECESİ MUHTEŞEM EĞLENCE</title>
+    <description>Ayrıcalıklardan yararlanmak için bu kanala katılın: TRAKYA TV SAYFAMIZA DESTEK VEREBİLİRSİNİZ DESTEĞİNİZ İÇİN ...</description>
+    <publishedAt>2025-10-05T10:51:46Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/LrL4-P9u28I/hqdefault.jpg</thumbnail>
   </video>
 </videos>
