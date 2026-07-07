@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <videos>
   <video>
+    <channelId>UCXjfQAySenURMFZoWbUyOAA</channelId>
+    <channelTitle>GezsekDeBeraberiz</channelTitle>
+    <videoId>nO84jPr94-4</videoId>
+    <title>YAŞAMAK İÇİN BİR YER ARIYORUM: Vietnam Doğru Yer mi? (Bilmiyorum) 🇻🇳 </title>
+    <description>KATIL butonuyla kanalımı destekleyebilirsiniz! / https://www.youtube.com/channel/UCXjfQAySenURMFZoWbUyOAA/join Abone ...</description>
+    <publishedAt>2026-07-06T19:02:55Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/nO84jPr94-4/hqdefault.jpg</thumbnail>
+  </video>
+  <video>
     <channelId>UCixqwBjXWG04mz5-FeIWi_w</channelId>
     <channelTitle>YırtıkPantolon</channelTitle>
     <videoId>9Mxm5-xYbp0</videoId>
@@ -40,7 +49,7 @@
     <channelId>UC9iME25kp7TP1j9WW0fva3w</channelId>
     <channelTitle>Sezer Yılmaz</channelTitle>
     <videoId>9JKko8-p-Sw</videoId>
-    <title>EYY AVUSTRALYALILAR NE İŞİNİZ VARDI ÇANAKKALE&amp;#39;DE? NE MUTLU TÜRKÜM DİYENE!</title>
+    <title>AVUSTRALYA SAHİLLERİNİ KARAVANLA GEZİYORUM !</title>
     <description>Hemen sen de Sezer X C.R.E.A.M. Brezilya Filtre ve Espresso Kahve ürünlerini sipariş et!</description>
     <publishedAt>2026-07-05T08:00:30Z</publishedAt>
     <thumbnail>https://i.ytimg.com/vi/9JKko8-p-Sw/hqdefault.jpg</thumbnail>
@@ -127,15 +136,6 @@
     <thumbnail>https://i.ytimg.com/vi/PiwKK_-D1DE/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCXjfQAySenURMFZoWbUyOAA</channelId>
-    <channelTitle>GezsekDeBeraberiz</channelTitle>
-    <videoId>VY67Ow72-50</videoId>
-    <title>YAŞAMAK İÇİN BİR YER ARIYORUM: Hoi An Beni Kendine Çekiyor 🇻🇳 </title>
-    <description>KATIL butonuyla kanalımı destekleyebilirsiniz! / https://www.youtube.com/channel/UCXjfQAySenURMFZoWbUyOAA/join Abone ...</description>
-    <publishedAt>2026-06-30T16:43:25Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/VY67Ow72-50/hqdefault.jpg</thumbnail>
-  </video>
-  <video>
     <channelId>UC9iME25kp7TP1j9WW0fva3w</channelId>
     <channelTitle>Sezer Yılmaz</channelTitle>
     <videoId>haeMYY3OOJM</videoId>
@@ -188,6 +188,15 @@
     <description>Herkese selamlar ben Arda Pazır. Bu videoda kapı vizesi ile gidilebilen Yunanistan&apos;ın en popüler adalarından biri olan Rodos ...</description>
     <publishedAt>2026-06-25T17:19:08Z</publishedAt>
     <thumbnail>https://i.ytimg.com/vi/2mE_Ntwkh28/hqdefault.jpg</thumbnail>
+  </video>
+  <video>
+    <channelId>UC8eiIqFeGHv8EImu7FAZPYw</channelId>
+    <channelTitle>Ugur Kola</channelTitle>
+    <videoId>rDL4Q_eIlHU</videoId>
+    <title>JAPONYA KÖY HAYATI | HER YER TERTEMİZ 🇯🇵</title>
+    <description>Japonya denince çoğu kişinin aklına Tokyo&apos;nun kalabalığı, neon ışıkları ve hızlı şehir hayatı geliyor. Ama bu ülkede bambaşka bir ...</description>
+    <publishedAt>2026-06-24T14:04:20Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/rDL4Q_eIlHU/hqdefault.jpg</thumbnail>
   </video>
   <video>
     <channelId>UCsY5426VGt3RkE18Z1sk7VQ</channelId>
@@ -287,14 +296,5 @@
     <description>Yeniden Afrika kıtasındayım. Bu seferki gezime Senegal&apos;in Dakar şehrinden başlıyorum. Havaalanından ülkeye giriş yaptıktan ...</description>
     <publishedAt>2025-12-30T06:58:27Z</publishedAt>
     <thumbnail>https://i.ytimg.com/vi/StnVMCgx7a8/hqdefault.jpg</thumbnail>
-  </video>
-  <video>
-    <channelId>UC8eiIqFeGHv8EImu7FAZPYw</channelId>
-    <channelTitle>Ugur Kola</channelTitle>
-    <videoId>r9t7Fjl4iwc</videoId>
-    <title>Pakistan&amp;#39;ın Şok Eden Yemek Pazarı | Gördüklerime İnanamadım 🇵🇰</title>
-    <description>Pakistan&apos;ın Şok Eden Yemek Pazarı | Gördüklerime İnanamadım Pakistan&apos;ın en ilginç şehirlerinden biri olan Lahor&apos;dayım!</description>
-    <publishedAt>2025-11-02T07:28:32Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/r9t7Fjl4iwc/hqdefault.jpg</thumbnail>
   </video>
 </videos>
