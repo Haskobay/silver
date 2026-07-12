@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <videos>
   <video>
+    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
+    <channelTitle>Birhayalinpeşinde</channelTitle>
+    <videoId>eOizlKjHSy4</videoId>
+    <title>Tatile Yeni Ülke Yunanistan’a Gidiyorum - Türkiye’den DAHA MI UYGUN ???</title>
+    <description>Yunan Adalarına nasıl gidilir, Yunanistan&apos;a giderken neleri bilmelisiniz, Rodos Adası gezisi yapacaksanız nasıl plan yapmalısınız, ...</description>
+    <publishedAt>2026-07-12T10:39:10Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/eOizlKjHSy4/hqdefault.jpg</thumbnail>
+  </video>
+  <video>
+    <channelId>UC9iME25kp7TP1j9WW0fva3w</channelId>
+    <channelTitle>Sezer Yılmaz</channelTitle>
+    <videoId>Z6xpBQ5t2CQ</videoId>
+    <title>HAYATIMIN EN İYİ GÜNÜ! AVUSTRALYA&amp;#39;DA UÇAK SÜRDÜM - ÇILGIN GECE HAYATI!</title>
+    <description>Hemen sen de Villa Villam ile villa kirala! https://www.villavillam.com.tr/villa-livia- ...</description>
+    <publishedAt>2026-07-12T08:00:24Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/Z6xpBQ5t2CQ/hqdefault.jpg</thumbnail>
+  </video>
+  <video>
+    <channelId>UC8eiIqFeGHv8EImu7FAZPYw</channelId>
+    <channelTitle>Ugur Kola</channelTitle>
+    <videoId>gpv4JtNogiw</videoId>
+    <title>JAPONYA&amp;#39;NIN GECE HAYATI | ŞOK OLACAKSINIZ 🇯🇵</title>
+    <description>Herkese selamlar! Tokyo seyahatinin en renkli gecesini nihayet yayına aldım. Bu videoda Tokyo&apos;nun geceleri asla uyumayan iki ...</description>
+    <publishedAt>2026-07-12T07:57:45Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/gpv4JtNogiw/hqdefault.jpg</thumbnail>
+  </video>
+  <video>
     <channelId>UCixqwBjXWG04mz5-FeIWi_w</channelId>
     <channelTitle>YırtıkPantolon</channelTitle>
     <videoId>pk2DsBBAcok</videoId>
@@ -163,33 +190,6 @@
     <thumbnail>https://i.ytimg.com/vi/d3JpiWLI_U8/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UC9iME25kp7TP1j9WW0fva3w</channelId>
-    <channelTitle>Sezer Yılmaz</channelTitle>
-    <videoId>haeMYY3OOJM</videoId>
-    <title>TEK BAŞIMA KARAVANLA AVUSTRALYA SAHİLLERİNİ GEZİYORUM!</title>
-    <description>Thesezar Made in Türkiye tişörtleri satışta! https://thesezar.com/sinirli-uretim-tek-seri (Reklam kendi markamız) ...</description>
-    <publishedAt>2026-06-28T08:00:33Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/haeMYY3OOJM/hqdefault.jpg</thumbnail>
-  </video>
-  <video>
-    <channelId>UCRuJF8ZQNmRcQt0djZt5IOA</channelId>
-    <channelTitle>Birhayalinpeşinde</channelTitle>
-    <videoId>-6AfhUSe2YE</videoId>
-    <title>2.000 Metreden Atladım - İşte Dünyanın En Güzeli Fethiye Ölüdeniz Gezisi</title>
-    <description>Fethiye Ölüdeniz nasıl bir yer, Ölüdeniz&apos;de nerelere gidilir, nereler görülür, nerede kalınır, Ölüdeniz&apos;de gezi yapacaksanız neleri ...</description>
-    <publishedAt>2026-06-28T07:00:21Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/-6AfhUSe2YE/hqdefault.jpg</thumbnail>
-  </video>
-  <video>
-    <channelId>UC8eiIqFeGHv8EImu7FAZPYw</channelId>
-    <channelTitle>Ugur Kola</channelTitle>
-    <videoId>Sg64DW0GI0E</videoId>
-    <title>JAPONYA&amp;#39;YI BÖYLE GÖRMEDİNİZ | Tokyo 🇯🇵</title>
-    <description>Japonya&apos;yı genelde neon ışıkları, düzenli sokakları ve teknolojisiyle görüyoruz… ama bu videoda biraz perde arkasına bakıyoruz.</description>
-    <publishedAt>2026-06-28T07:00:03Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/Sg64DW0GI0E/hqdefault.jpg</thumbnail>
-  </video>
-  <video>
     <channelId>UCsY5426VGt3RkE18Z1sk7VQ</channelId>
     <channelTitle>GÖÇMEN KIZI FİRARDA </channelTitle>
     <videoId>AHFNmxxWuFA</videoId>
@@ -217,13 +217,13 @@
     <thumbnail>https://i.ytimg.com/vi/GU1HOiNCzOM/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UC9iME25kp7TP1j9WW0fva3w</channelId>
-    <channelTitle>Sezer Yılmaz</channelTitle>
-    <videoId>UAvH9ZWZ6iU</videoId>
-    <title>AVUSTRALYA‘YI KARAVANLA GEZİYORUM￼! </title>
-    <description>Enerjinin düştüğü yerde asla pes etme, Dark Blue ile yola devam. Dark Blue ürünlerini şu anda Trendyol ve Hepsiburada ...</description>
-    <publishedAt>2026-06-21T08:00:08Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/UAvH9ZWZ6iU/hqdefault.jpg</thumbnail>
+    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
+    <channelTitle>Arda Pazır</channelTitle>
+    <videoId>343yFGtFrNs</videoId>
+    <title>RODOS BİZİ SICAK KARŞILADI! (Gitmek İsteyeceksiniz) 🇬🇷</title>
+    <description>Herkese selamlar Ben Arda Pazır. Bu videoda Yeni serimiz: Türklere Kapı Vizeli Yünan Adalarını Göreceğiz .İlk Olarak en popüler ...</description>
+    <publishedAt>2026-06-18T17:00:15Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/343yFGtFrNs/hqdefault.jpg</thumbnail>
   </video>
   <video>
     <channelId>UC8SVJD8u1FkrZ7T2oeGxJ-g</channelId>
@@ -244,6 +244,15 @@
     <thumbnail>https://i.ytimg.com/vi/nYGWjYISYrY/hqdefault.jpg</thumbnail>
   </video>
   <video>
+    <channelId>UC9iME25kp7TP1j9WW0fva3w</channelId>
+    <channelTitle>Sezer Yılmaz</channelTitle>
+    <videoId>igVcLjt92v4</videoId>
+    <title>TÜRKLER BU ÜLKEYİ ÇOK AZ BİLİYOR - 59. ÜLKEM TAYVAN&amp;#39;A GİDİYORUM</title>
+    <description>Bayram fırsatları için ENUYGUN mobil uygulamasını hemen indirin! https://enuygun.go.link/29Qqp ...</description>
+    <publishedAt>2026-05-10T08:00:10Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/igVcLjt92v4/hqdefault.jpg</thumbnail>
+  </video>
+  <video>
     <channelId>UC8P2ame_57JS0FhpZ7Zke8w</channelId>
     <channelTitle>Trakya Tv.</channelTitle>
     <videoId>e_QW88-rSVU</videoId>
@@ -253,13 +262,13 @@
     <thumbnail>https://i.ytimg.com/vi/e_QW88-rSVU/hqdefault.jpg</thumbnail>
   </video>
   <video>
-    <channelId>UCBpokVh83ZN91E3bVYcF7Ng</channelId>
-    <channelTitle>Arda Pazır</channelTitle>
-    <videoId>yMY2qCLl5kw</videoId>
-    <title>Uruguay’da Köye Geldim! Burada Hayat Çok Farklı 🇺🇾</title>
-    <description>Selamlar ben Arda Pazır, bugün sizlerle Uruguay&apos;ın uçsuz bucaksız düzlüklerinden Durazno&apos;nun sakin sokaklarına uzanan bu ...</description>
-    <publishedAt>2026-05-03T17:32:53Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/yMY2qCLl5kw/hqdefault.jpg</thumbnail>
+    <channelId>UC8P2ame_57JS0FhpZ7Zke8w</channelId>
+    <channelTitle>Trakya Tv.</channelTitle>
+    <videoId>tw6JeJ3m1tI</videoId>
+    <title>Bu Tören Neden Bu Kadar Önemli? Anzak Töreninde Yaşananlar</title>
+    <description>anzakgünü Ayrıcalıklardan yararlanmak için bu kanala katılın: TRAKYA TV SAYFAMIZA DESTEK VEREBİLİRSİNİZ DESTEĞİNİZ ...</description>
+    <publishedAt>2026-04-26T14:55:56Z</publishedAt>
+    <thumbnail>https://i.ytimg.com/vi/tw6JeJ3m1tI/hqdefault.jpg</thumbnail>
   </video>
   <video>
     <channelId>UC35GLuhVhpEMjZrIWvi6ckw</channelId>
@@ -287,14 +296,5 @@
     <description>Yeniden Afrika kıtasındayım. Bu seferki gezime Senegal&apos;in Dakar şehrinden başlıyorum. Havaalanından ülkeye giriş yaptıktan ...</description>
     <publishedAt>2025-12-30T06:58:27Z</publishedAt>
     <thumbnail>https://i.ytimg.com/vi/StnVMCgx7a8/hqdefault.jpg</thumbnail>
-  </video>
-  <video>
-    <channelId>UC8P2ame_57JS0FhpZ7Zke8w</channelId>
-    <channelTitle>Trakya Tv.</channelTitle>
-    <videoId>lyynR1JJJ8w</videoId>
-    <title>Roman Oyunu ile Coşan Trakya Düğünü Eğlencenin Zirvesi!</title>
-    <description>Ayrıcalıklardan yararlanmak için bu kanala katılın: TRAKYA TV SAYFAMIZA DESTEK VEREBİLİRSİNİZ DESTEĞİNİZ İÇİN ...</description>
-    <publishedAt>2025-09-13T11:45:10Z</publishedAt>
-    <thumbnail>https://i.ytimg.com/vi/lyynR1JJJ8w/hqdefault.jpg</thumbnail>
   </video>
 </videos>
